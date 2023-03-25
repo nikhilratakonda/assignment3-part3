@@ -2,15 +2,22 @@
 <!DOCTYPE courses SYSTEM "courses.dtd">
 <courses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<course>
-		<course_id>CSE101</course_id>
-		<name>Introduction to Computer Science</name>
+		<course_id>CS608</course_id>
+		<name>Algorithms and computational theory</name>
 		<major>Computer Science</major>
 		<credits>3</credits>
 	</course>
 	<course>
-		<course_id>MAT101</course_id>
-		<name>Calculus I</name>
-		<major>Mathematics</major>
-		<credits>4</credits>
+		<course_id>CS613</course_id>
+		<name>Internet computing</name>
+		<major>Computer Science</major>
+		<credits>3</credits>
+	</course>
+		<course>
+		<course_id>CS612</course_id>
+		<name>introduction to Parallel computing</name>
+		<major>Computer Science</major>
+		<credits>3</credits>
 	</course>
 </courses>
+
