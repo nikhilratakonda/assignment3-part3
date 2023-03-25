@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE courses SYSTEM "courses.dtd">
+<courses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<course>
+		<course_id>CSE101</course_id>
+		<name>Introduction to Computer Science</name>
+		<major>Computer Science</major>
+		<credits>3</credits>
+	</course>
+	<course>
+		<course_id>MAT101</course_id>
+		<name>Calculus I</name>
+		<major>Mathematics</major>
+		<credits>4</credits>
+	</course>
+</courses>

@@ -1,0 +1,7 @@
+<!ELEMENT courses (course+)>
+<!ELEMENT course (course_id, name, major, credits)>
+<!ELEMENT course_id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT major (#PCDATA)>
+<!ELEMENT credits (#PCDATA)>
+<!ATTLIST courses xmlns:xsi CDATA #IMPLIED>
